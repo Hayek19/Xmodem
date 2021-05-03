@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1616866927 source:c:\users\filip\desktop\studia\iv semestr\telekomuna\zadanie 2\zadanie2_fh\main.cpp
+	<iostream>
+	"pomoc.h"
+
+1616863773 c:\users\filip\desktop\studia\iv semestr\telekomuna\zadanie 2\zadanie2_fh\pomoc.h
+	<fstream>
+	<string.h>
+	<windows.h>
+	"iostream"
+
+1617045737 source:c:\users\admin\downloads\zadanie2_fh\main.cpp
+	<iostream>
+	"pomoc.h"
+	"funkcje.h"
+
+1617045339 c:\users\admin\downloads\zadanie2_fh\pomoc.h
+	<fstream>
+	<windows.h>
+	<string.h>
+	<iostream>
+
+1617045308 c:\users\admin\downloads\zadanie2_fh\funkcje.h
+
